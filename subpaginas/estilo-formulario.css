@@ -60,6 +60,9 @@ ul {
 .contact-form form .block {
     grid-column: 1 / 3;
 }
+textarea {
+    resize: none !important;
+  }
 
 .contact-form form button,
 .contact-form form input,
