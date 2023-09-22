@@ -28,7 +28,7 @@ ul {
 }
 
 .logo span {
-    color: #B70E21;
+    color: #ff6f06;
 }
 
 .contact-wrapper {
@@ -73,11 +73,11 @@ textarea {
     background: none;
     outline: 0;
     color: #fff;
-    border-bottom: 1px solid #d63031;
+    border-bottom: 1px solid #ff6f06;
 }
 
 .contact-form form button {
-    background: #B70E21;
+    background: #ff6f06;
     border: 0;
     text-transform: uppercase;
     padding: 1em;
